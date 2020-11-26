@@ -49,7 +49,7 @@ namespace APIMongoCrud.Controllers
             if (Unidad == null)
                 return BadRequest();
 
-            Unidad.IdUnidad = new MongoDB.Bson.ObjectId(id);
+            //Unidad.IdUnidad = new MongoDB.Bson.ObjectId(id);
             await db.Update(Unidad);
             return Created("Created", true);
         }

@@ -49,7 +49,7 @@ namespace APIMongoCrud.Controllers
             if (Pago == null)
                 return BadRequest();
 
-            Pago.IdPago = new MongoDB.Bson.ObjectId(id);
+            //Pago.IdPago = new MongoDB.Bson.ObjectId(id);
             await db.Update(Pago);
             return Created("Created", true);
         }

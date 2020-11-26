@@ -49,7 +49,7 @@ namespace APIMongoCrud.Controllers
             if (Deposito == null)
                 return BadRequest();
 
-            Deposito.IdDeposito = new MongoDB.Bson.ObjectId(id);
+            //Deposito.IdDeposito = new MongoDB.Bson.ObjectId(id);
             await db.Update(Deposito);
             return Created("Created", true);
         }

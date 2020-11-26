@@ -49,7 +49,7 @@ namespace APIMongoCrud.Controllers
             if (Bitacora == null)
                 return BadRequest();
 
-            Bitacora.IdBitacora = new MongoDB.Bson.ObjectId(id);
+           // Bitacora.IdBitacora = new MongoDB.Bson.ObjectId(id);
             await db.Update(Bitacora);
             return Created("Created", true);
         }
