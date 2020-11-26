@@ -1,0 +1,26 @@
+D:\WebAvanzada\Proyecto\API.DO\bin\Debug\netcoreapp3.1\API.DO.deps.json
+D:\WebAvanzada\Proyecto\API.DO\bin\Debug\netcoreapp3.1\API.DO.dll
+D:\WebAvanzada\Proyecto\API.DO\obj\Debug\netcoreapp3.1\API.DO.AssemblyInfoInputs.cache
+D:\WebAvanzada\Proyecto\API.DO\obj\Debug\netcoreapp3.1\API.DO.AssemblyInfo.cs
+D:\WebAvanzada\Proyecto\API.DO\bin\Debug\netcoreapp3.1\API.DO.pdb
+D:\WebAvanzada\Proyecto\API.DO\obj\Debug\netcoreapp3.1\API.DO.csproj.CoreCompileInputs.cache
+D:\WebAvanzada\Proyecto\API.DO\obj\Debug\netcoreapp3.1\API.DO.dll
+D:\WebAvanzada\Proyecto\API.DO\obj\Debug\netcoreapp3.1\API.DO.pdb
+D:\WebAvanzada\Proyecto\API.DO\obj\Debug\netcoreapp3.1\API.DO.csprojAssemblyReference.cache
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\API.DO\bin\Debug\netcoreapp3.1\API.DO.deps.json
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\API.DO\bin\Debug\netcoreapp3.1\API.DO.dll
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\API.DO\bin\Debug\netcoreapp3.1\API.DO.pdb
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.csprojAssemblyReference.cache
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.AssemblyInfoInputs.cache
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.AssemblyInfo.cs
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.csproj.CoreCompileInputs.cache
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.dll
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.pdb
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\API.DO\bin\Debug\netcoreapp3.1\API.DO.deps.json
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\API.DO\bin\Debug\netcoreapp3.1\API.DO.dll
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\API.DO\bin\Debug\netcoreapp3.1\API.DO.pdb
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.AssemblyInfoInputs.cache
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.AssemblyInfo.cs
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.csproj.CoreCompileInputs.cache
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.dll
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\API.DO\obj\Debug\netcoreapp3.1\API.DO.pdb

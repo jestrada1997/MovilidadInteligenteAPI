@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7K2MPhctYw/DMPEPLIA5JuBCVXZ8xrsefaQZpp3YPSpTWnFQ3zT27UexasR7S1myQzbIMgkuB5W/mBsD258mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joestra\\Downloads\\Proyecto-WebAvanzada (1)\\ProgramacionWebAvanzada\\API.DO\\API.DO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joestra\\.nuget\\packages\\mongodb.bson\\2.11.3\\mongodb.bson.2.11.3.nupkg.sha512"
+  ],
+  "logs": []
+}
