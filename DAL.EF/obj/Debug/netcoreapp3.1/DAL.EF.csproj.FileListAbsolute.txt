@@ -1,0 +1,25 @@
+D:\WebAvanzada\Proyecto\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.deps.json
+D:\WebAvanzada\Proyecto\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.dll
+D:\WebAvanzada\Proyecto\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfoInputs.cache
+D:\WebAvanzada\Proyecto\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfo.cs
+D:\WebAvanzada\Proyecto\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+D:\WebAvanzada\Proyecto\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CoreCompileInputs.cache
+D:\WebAvanzada\Proyecto\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
+D:\WebAvanzada\Proyecto\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.deps.json
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.dll
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csprojAssemblyReference.cache
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfoInputs.cache
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfo.cs
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CoreCompileInputs.cache
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
+D:\WebAvanzada\Proyecto-WebAvanzada\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.deps.json
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\DAL.EF\bin\Debug\netcoreapp3.1\DAL.EF.pdb
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfoInputs.cache
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.AssemblyInfo.cs
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.csproj.CoreCompileInputs.cache
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.dll
+C:\Users\joestra\Downloads\Proyecto-WebAvanzada (1)\ProgramacionWebAvanzada\DAL.EF\obj\Debug\netcoreapp3.1\DAL.EF.pdb
