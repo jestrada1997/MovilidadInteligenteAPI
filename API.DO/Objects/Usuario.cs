@@ -13,6 +13,7 @@ namespace API.DO.Objects
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
+
         public string IdUsuario { get; set; }
         [Required]
         public string Nombre { get; set; }

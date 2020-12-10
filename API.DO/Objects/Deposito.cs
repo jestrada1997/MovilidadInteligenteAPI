@@ -11,6 +11,8 @@ namespace API.DO.Objects
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         public string IdDeposito { get; set; }
+        
+        [BsonRepresentation(BsonType.ObjectId)]
         public string IdUsuario { get; set; }
         public int Monto { get; set; }
         public DateTime FechaDeposito { get; set; }
