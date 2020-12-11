@@ -30,6 +30,15 @@ namespace APIMongoCrud.Controllers
         {
             return Ok(await db.GetAllById(id));
         }
+        //Metodo para actualizar
+        [HttpPut]
+        public async Task<ActionResult> Update([FromBody] Usuario Usuario)
+        {
+            if (Usuario == null)
+                return BadRequest();
+            await db.Update(Usuario);
+            return Created("Created", true);
+        }
 
         //Metodo para crear
         [HttpPost]
@@ -42,16 +51,7 @@ namespace APIMongoCrud.Controllers
             return Created("Created", true);
         }
 
-        //Metodo para actualizar
-        [HttpPut("{id}")]
-        public async Task<ActionResult> Update([FromBody] Usuario Usuario, string id)
-        {
-            if (Usuario == null)
-                return BadRequest();
-            //Usuario.IdUsuario = new MongoDB.Bson.ObjectId(id).ToString();
-            await db.Update(Usuario);
-            return Created("Created", true);
-        }
+        
 
         [HttpDelete]
         public async Task<ActionResult> Delete(string id)

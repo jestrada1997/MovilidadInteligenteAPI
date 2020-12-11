@@ -43,13 +43,13 @@ namespace APIMongoCrud.Controllers
         }
 
         //Metodo para actualizar
-        [HttpPut("{id}")]
-        public async Task<ActionResult> Update([FromBody] Linea Linea, string id)
+        [HttpPut]
+        public async Task<ActionResult> Update([FromBody] Linea Linea)
         {
             if (Linea == null)
                 return BadRequest();
 
-            //Linea.IdLinea = new MongoDB.Bson.ObjectId(id);
+            
             await db.Update(Linea);
             return Created("Created", true);
         }

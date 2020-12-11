@@ -50,8 +50,9 @@ namespace BS
         public async Task Update(Usuario usuario)
         {
             var filter = Builders<Usuario>.Filter.Eq("_id", usuario.IdUsuario);
-            await Collection.ReplaceOneAsync(filter, usuario);
 
+            await Collection.ReplaceOneAsync(filter, usuario);
+            
         }
     }
 }

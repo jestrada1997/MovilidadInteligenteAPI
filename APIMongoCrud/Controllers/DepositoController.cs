@@ -43,13 +43,12 @@ namespace APIMongoCrud.Controllers
         }
 
         //Metodo para actualizar
-        [HttpPut("{id}")]
-        public async Task<ActionResult> Update([FromBody] Deposito Deposito, string id)
+        [HttpPut]
+        public async Task<ActionResult> Update([FromBody] Deposito Deposito)
         {
             if (Deposito == null)
                 return BadRequest();
 
-            //Deposito.IdDeposito = new MongoDB.Bson.ObjectId(id);
             await db.Update(Deposito);
             return Created("Created", true);
         }

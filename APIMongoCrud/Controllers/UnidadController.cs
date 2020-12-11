@@ -43,13 +43,12 @@ namespace APIMongoCrud.Controllers
         }
 
         //Metodo para actualizar
-        [HttpPut("{id}")]
-        public async Task<ActionResult> Update([FromBody] Unidad Unidad, string id)
+        [HttpPut]
+        public async Task<ActionResult> Update([FromBody] Unidad Unidad)
         {
             if (Unidad == null)
                 return BadRequest();
 
-            //Unidad.IdUnidad = new MongoDB.Bson.ObjectId(id);
             await db.Update(Unidad);
             return Created("Created", true);
         }
