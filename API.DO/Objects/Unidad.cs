@@ -11,7 +11,10 @@ namespace API.DO.Objects
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         public string IdUnidad { get; set; }
+        public string ruta { get; set; }
+        public int monto { get; set; }
         public string Descripcion { get; set; }
+        public int asientos { get; set; }
         public string Placa { get; set; }
         public bool Estado { get; set; }
     }

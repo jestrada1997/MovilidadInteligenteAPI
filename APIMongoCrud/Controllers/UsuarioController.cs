@@ -36,6 +36,7 @@ namespace APIMongoCrud.Controllers
         {
             if (Usuario == null)
                 return BadRequest();
+            
             await db.Update(Usuario);
             return Created("Created", true);
         }

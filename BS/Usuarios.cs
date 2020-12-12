@@ -49,7 +49,7 @@ namespace BS
 
         public async Task Update(Usuario usuario)
         {
-            var filter = Builders<Usuario>.Filter.Eq("_id", usuario.IdUsuario);
+            var filter = Builders<Usuario>.Filter.Eq(s => s.IdUsuario, usuario.IdUsuario);
 
             await Collection.ReplaceOneAsync(filter, usuario);
             
