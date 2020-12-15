@@ -28,6 +28,7 @@ namespace API.DO.Objects
         [Required]
         public string Telefono { get; set; }
         public int Saldo { get; set; }
+        public int SaldoPend { get; set; }
         public DateTime FechaCreacion { get; set; }
         public string Rol { get; set; }
         public bool Estado { get; set; }
