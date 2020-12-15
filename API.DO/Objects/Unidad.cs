@@ -17,5 +17,7 @@ namespace API.DO.Objects
         public int asientos { get; set; }
         public string Placa { get; set; }
         public bool Estado { get; set; }
+        [BsonDateTimeOptions(Kind = DateTimeKind.Local)]
+        public List<DateTime> horarios { get; set; }
     }
 }
