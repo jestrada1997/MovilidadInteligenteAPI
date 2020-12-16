@@ -14,10 +14,7 @@ namespace API.DO.Objects
         public string ruta { get; set; }
         public int monto { get; set; }
         public string Descripcion { get; set; }
-        public int asientos { get; set; }
         public string Placa { get; set; }
         public bool Estado { get; set; }
-        [BsonDateTimeOptions(Kind = DateTimeKind.Local)]
-        public List<DateTime> horarios { get; set; }
     }
 }
